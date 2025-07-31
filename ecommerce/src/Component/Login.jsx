@@ -1,5 +1,5 @@
 import React, { useContext, useRef, useState } from 'react'
-import { myContext } from './App'
+import { myContext } from '../App'
 import { useNavigate } from 'react-router-dom'
 
 const Login = () => {

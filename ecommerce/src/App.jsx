@@ -5,7 +5,7 @@ import { About } from './About'
 import Shop from './Shop'
 import Contact from './Contact'
 import { Myaccount } from './Myaccount'
-import Login from './Login'
+import Login from './Component/Login'
 import Signup from './Signup'
 
 
